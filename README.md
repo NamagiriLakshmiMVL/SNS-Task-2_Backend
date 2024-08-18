@@ -9,7 +9,7 @@ Here's the Postman implementation of the API written :
 
 2. Reading a Project
 
-![image](https://github.com/user-attachments/assets/45223a73-efa0-49dd-9e1c-d1bc68e0db76)
+![image](https://github.com/user-attachments/assets/b6618e4d-e38c-4029-8f5a-a011b99c930d)
 
 3.Update a Project
 
@@ -17,6 +17,6 @@ Here's the Postman implementation of the API written :
 
 4.Delete a Project
 
-![image](https://github.com/user-attachments/assets/1661ac3d-bab0-4dbe-b000-9f29ebe21a02)
+![image](https://github.com/user-attachments/assets/87e22c2b-bb02-41f0-bff9-054dba3fb025)
 
 
